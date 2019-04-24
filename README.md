@@ -1,2 +1,2 @@
-# vue-siono
-Created with CodeSandbox
+# vue-sample
+Curso VueJS
